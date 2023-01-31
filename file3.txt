@@ -1,0 +1,8 @@
+File 3 test
+
+These are
+
+three lines
+
+of plain text.  Hi there!
+
