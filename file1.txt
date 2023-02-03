@@ -2,4 +2,6 @@ File 1 test
 
 abcdefghijklmnopqrstuvwxyz
 
+New line added from the newrepo_branch1 branch
+
 
